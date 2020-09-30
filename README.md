@@ -3,7 +3,7 @@
   1) Calculating an arithmetic expression.
   2) Calculating a Boolean expression. 
   3) Function calculation using a series.
-  4) Input, processing, and output of a  dynamic array.
+  4) Input, processing, and output of a bivariate dynamic array.
 
 Выполнено 4 задачи: 
   1) Вычисление арифметического выражения. 
