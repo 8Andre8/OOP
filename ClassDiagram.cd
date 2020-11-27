@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Bus">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAQABAAAAEAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>4. Наследование и полиморфизм.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAQABgAAAAAAAAAAAAAABAAAQAAAAAA=</HashCode>
+      <FileName>4. Наследование и полиморфизм.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Machine">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAFBAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>4. Наследование и полиморфизм.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Truck">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAEAAAAQgBAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>4. Наследование и полиморфизм.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_bus">
+    <Position X="5.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAQABAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>4. Наследование и полиморфизм.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cost">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>4. Наследование и полиморфизм.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car_with_cost">
+    <Position X="10.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>4. Наследование и полиморфизм.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
