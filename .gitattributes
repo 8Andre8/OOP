@@ -1,2 +1,2 @@
 * linguist-vendored
-*.pro linguist-language=C++
+*.gitattributes linguist-language=C++
